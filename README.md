@@ -9,4 +9,5 @@ Sepel:-Usually green, sepals typically function as protection for the flower in 
 
 Petel :- Petals are modified leaves that surround the reproductive parts of flowers.Usually brightly colored 
 
-![Iris_Setosa](Iris_setosa.jpg)
+# Iris Setosa
+![Iris_Setosa](images/Iris_setosa.jpg)
