@@ -12,4 +12,3 @@ Petel :- Petals are modified leaves that surround the reproductive parts of flow
 ## Iris Setosa-------Iris Versicolor------Iris_Virginica
 ![Iris_Setosa](images/Iris_setosa.jpg)![Iris_versicolor](images/Iris_versicolor.jpg)![Iris_virginica](images/Iris_virginica.jpg)![sepel_petel](images/sepel_petel.jpg)
 
-## 
