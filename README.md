@@ -5,6 +5,8 @@ linear discriminant analysis a method used in statistics, pattern recognition an
 
 The data set consists of 50 samples from each of three species of Iris (Iris setosa, Iris versicolor and Iris virginica), so 150 total samples. Four features were measured from each sample: the length and the width of the sepals and petals, in centimeters.
 
+### Problem: Predict the class of the flower based on available attributes.
+
 ## Iris Setosa-----------Iris Versicolor----------Iris_Virginica
 ![Iris_Setosa](images/Iris_setosa.jpg)![Iris_versicolor](images/Iris_versicolor.jpg)![Iris_virginica](images/Iris_virginica.jpg)
 
