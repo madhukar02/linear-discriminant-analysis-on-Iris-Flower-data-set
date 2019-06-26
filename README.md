@@ -10,5 +10,5 @@ Sepel:-Usually green, sepals typically function as protection for the flower in 
 Petel :- Petals are modified leaves that surround the reproductive parts of flowers.Usually brightly colored 
 
 ## Iris Setosa-------Iris Versicolor------Iris_Virginica
-![Iris_Setosa](images/Iris_setosa.jpg)![Iris_versicolor](images/Iris_versicolor.jpg)![Iris_virginica](images/Iris_virginica.jpg)![sepel_petel](images/sepel_petel.jpg)
+![Iris_Setosa](images/Iris_setosa.jpg   )![Iris_versicolor](images/Iris_versicolor.jpg)![Iris_virginica](images/Iris_virginica.jpg)![sepel_petel](images/sepel_petel.jpg)
 
